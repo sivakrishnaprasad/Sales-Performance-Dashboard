@@ -1,0 +1,11 @@
+order_id,order_date,product_name,category,region,quantity,unit_price
+1001,2024-01-05,Laptop,Electronics,South,2,55000
+1002,2024-01-07,Mobile,Electronics,North,5,20000
+1003,2024-01-10,Headphones,Electronics,West,10,2500
+1004,2024-02-02,Chair,Furniture,South,4,3500
+1005,2024-02-05,Table,Furniture,East,2,8000
+1006,2024-02-12,Laptop,Electronics,North,1,58000
+1007,2024-03-01,Mobile,Electronics,South,3,21000
+1008,2024-03-05,Headphones,Electronics,East,8,2600
+1009,2024-03-12,Chair,Furniture,West,6,3200
+1010,2024-03-18,Table,Furniture,South,3,7500
